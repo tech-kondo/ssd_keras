@@ -106,3 +106,9 @@ prior_boxes_ssd300.pkl
 VGG_ILSVRC_16_layers_fc_reduced.h5
 weights_SSD300.hdf5
 checkpoints/
+VOC2007.pkl
+gt_pascal.pkl
+prior_boxes_ssd300.pkl
+VGG_ILSVRC_16_layers_fc_reduced.h5
+weights_SSD300.hdf5
+checkpoints/
